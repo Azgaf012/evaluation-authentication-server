@@ -1,4 +1,4 @@
-package com.evaluation.authorizationserver.config;
+package com.evaluation.authorizationserver.service;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
